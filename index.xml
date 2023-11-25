@@ -14,7 +14,7 @@
       
       <guid>https://timothytfchan.github.io/posts/mypost/</guid>
       <description>Content test
-print(&amp;#34;Test&amp;#34;) </description>
+n_test = 10 for i in range(n_test): print(&amp;#34;Test&amp;#34;) </description>
     </item>
     
   </channel>
