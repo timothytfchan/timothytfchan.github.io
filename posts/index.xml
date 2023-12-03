@@ -5,16 +5,15 @@
     <link>https://timothytfchan.github.io/posts/</link>
     <description>Recent content in Posts on Tim Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 25 Nov 2023 14:28:37 +0000</lastBuildDate><atom:link href="https://timothytfchan.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://timothytfchan.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test title</title>
-      <link>https://timothytfchan.github.io/posts/mypost/</link>
-      <pubDate>Sat, 25 Nov 2023 14:28:37 +0000</pubDate>
+      <title>Thinking of Humans as “Concept Classifiers</title>
+      <link>https://timothytfchan.github.io/posts/thinking-of-humans-as-concept-classifiers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://timothytfchan.github.io/posts/mypost/</guid>
-      <description>Content test
-n_test = 10 for i in range(n_test): print(&amp;#34;Test&amp;#34;) </description>
+      <guid>https://timothytfchan.github.io/posts/thinking-of-humans-as-concept-classifiers/</guid>
+      <description>Disclaimer: This post concerns epistemology rather than ontology. Claims are not about what “seemingly physics-independent” phenomena exist, and how they are, but rather concern how we form ideas about such things.
+Summary Our brains, as physical objects, physically create and utilize various concepts - including seemingly “physics-independent” concepts such as morality, selfhood, and the sentience of others. Their physical origins cast doubt on whether these physically-formed, &amp;ldquo;seemingly physics-independent&amp;rdquo; concepts truly reflect corresponding supposedly “non-physical” realities.</description>
     </item>
     
   </channel>
